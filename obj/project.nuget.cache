@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Nab5ygt0NXN+NJ2JuY1TFiRF1UV16qF/YWu37egCAJQMe0LG5lcOsPfhox69w8Ct8SoMyKBnVIPMBCQWFgOGtA==",
+  "success": true,
+  "projectFilePath": "/Users/hugobrostrom/Desktop/CampusCloud/GruppArb/AuthAuthz/AuthAuthz.csproj",
+  "expectedPackageFiles": [
+    "/Users/hugobrostrom/.nuget/packages/microsoft.aspnetcore.authentication.google/7.0.10/microsoft.aspnetcore.authentication.google.7.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}
